@@ -1,6 +1,7 @@
 # String-Conversion-Tool
 It Can Be Used For Doing Various String Conversions
-# It Is Available in Both GUI (Graphical User Interface) and CLI (Command Line Interface)
+
+It Is Available in Both GUI (Graphical User Interface) and CLI (Command Line Interface)
 You Just Need Xampp Or PhP Installed To Make it Work
 
 # For Gui (Linux):
@@ -23,6 +24,11 @@ php string_tool.php
 For Linux
 cd /home/Desktop/
 php string_tool.php
+
+Note:
+string_conversion_tools.php Is For GUI
+Whereas
+string_tool.php Is For CLI
 
 # Contact Me
 https://www.facebook.com/An0n.3xPloiTeR
