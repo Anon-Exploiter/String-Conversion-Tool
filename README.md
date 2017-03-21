@@ -4,7 +4,7 @@ It Can Be Used For Doing Various String Conversions
 It Is Available in Both GUI (Graphical User Interface) and CLI (Command Line Interface)
 You Just Need Xampp Or PhP Installed To Make it Work
 
-# For Gui (Linux):
+# For GUI (Linux):
 Place It in /var/www/html/
 And Run This in Browser:
 localhost/string_conversion_tools.php
