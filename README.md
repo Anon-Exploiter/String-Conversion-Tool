@@ -29,6 +29,3 @@ Note:
 string_conversion_tools.php Is For GUI
 Whereas
 string_tool.php Is For CLI
-
-# Contact Me
-https://www.facebook.com/An0n.3xPloiTeR
